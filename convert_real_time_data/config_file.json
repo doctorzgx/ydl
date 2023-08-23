@@ -1,0 +1,10 @@
+{
+    "mysql_user":"bigdata",
+    "mysql_password":"BBbb11335577!",
+    "mysql_host":"192.168.3.104",
+    "mysql_database":"db_ydl_dev",
+    "mysql_port":3306,
+    "mysql_charset":"utf8",
+    "API_http_host": "0.0.0.0",
+    "API_http_port": 80
+}

@@ -1,0 +1,4 @@
+SQLALchemy=2.0.20
+flask=2.0.3
+pandas=2.0.3
+pymysql=1.1.0
