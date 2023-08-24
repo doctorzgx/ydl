@@ -105,7 +105,7 @@ def insert_sql_real_time_data():
     conn.close()
 
 
-@app.route('/Convert_real_time_data', methods=['post'])
+@app.route('/api/Convert_real_time_data', methods=['post'])
 @app.errorhandler(Exception)
 def Convert_real_time_data():
     insert_sql_real_time_data()
