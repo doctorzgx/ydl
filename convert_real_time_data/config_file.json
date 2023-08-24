@@ -5,6 +5,6 @@
     "mysql_database":"db_ydl_dev",
     "mysql_port":3306,
     "mysql_charset":"utf8",
-    "API_http_host": "0.0.0.0",
+    "API_http_host": "192.168.8.155",
     "API_http_port": 22873
 }
